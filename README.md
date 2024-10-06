@@ -2,17 +2,17 @@
 
 Đây là những thứ mình đã tìm hiểu được
 
-## Numpy
+## Numpy - Xử lí array, matrix
 
 1. array: khởi tạo, append, slice, data types, copy, view, shape, reshape, iterating, vstack, dstack, split, search, sort, filter
 2. numpy random: rd shuffle, permutation
 
-## Pandas
+## Pandas - Đọc file csv, json... và phân tích dữ liệu
 1. series
 2. dataframes
 3. read csv, json, analyze data (.head, .tail, .info)
 
-## Matlotlib
+## Matlotlib - Vẽ biểu đồ, đồ thị
 1. pyplot: plt.plot(x, y); plt.show
 2. marker, line, label, grid
 3. subplot
