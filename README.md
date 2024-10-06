@@ -22,7 +22,7 @@
 
 ## Machine learning 
 1. mean, median, mode
-2. deviation Getting Started
+2. deviation
 3. percentile
 4. numpy.random.uniform, numpy.random.normal
 5. regression: linear, polynomial, multiple
